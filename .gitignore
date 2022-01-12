@@ -1,0 +1,126 @@
+
+.ci/releaseBuild.yml
+.gitattributes
+codereview.settings
+cr-buildbucket.cfg
+Engine/FindAstPositionVisitor.cs
+luci-logdog.cfg
+luci-milo.cfg
+luci-scheduler.cfg
+OWNERS
+project.cfg
+PSScriptAnalyzer/
+README.md~Stashed changes
+RuleDocumentation/AvoidUsingDoubleQuotesForConstantString.md
+Rules/AvoidUsingDoubleQuotesForConstantString.cs
+Tests/Build/BuildModule.tests.ps1
+Tests/Engine/TokenOperations.tests.ps1
+Tests/Rules/AvoidUsingDoubleQuotesForConstantString.tests.ps1
+Tests/Rules/DSCResourceModule/DSCResources/.gitignore~master
+Tests/Rules/DSCResourceModule/DSCResources/bcd (2)
+Tests/Rules/DSCResourceModule/DSCResources/bootsect (3).exe
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/.gitignore.txt
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/1F028930-11D5-42DB-90D6-39F1E24059B0.Diagnose.0.etl
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/bcd
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/boot.sdi
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Boot/BCD.LOG1
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Boot/BCD.LOG2
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Boot/cs-cz/!1. $.!! ;@VM873&&@VM130
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Boot/cs-cz/bootmgfw.efi.mui
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Boot/cs-cz/bootmgr.efi.mui
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Boot/cs-cz/bootsect.exe ---1--2-_.mui
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Boot/cs-cz/bootsect.exe.mui
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Boot/cs-cz/fonts/bootsect.exe ---1--2-_.mui
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Boot/cs-cz/fonts/chs_boot (2).ttf
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Boot/cs-cz/fonts/chs_boot.ttf
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Boot/cs-cz/fonts/cht_boot.ttf
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Boot/cs-cz/fonts/jpn_boot (2).ttf
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Boot/cs-cz/fonts/jpn_boot.ttf
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Boot/cs-cz/fonts/kor_boot (2).ttf
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Boot/cs-cz/fonts/kor_boot.ttf
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Boot/cs-cz/fonts/malgun_boot.ttf
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Boot/cs-cz/fonts/malgun_console.ttf
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Boot/cs-cz/fonts/malgunn_boot.ttf
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Boot/cs-cz/fonts/meiryo_boot.ttf
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Boot/cs-cz/fonts/meiryo_console.ttf
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Boot/cs-cz/fonts/meiryon_boot.ttf
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Boot/cs-cz/fonts/msjh_boot.ttf
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Boot/cs-cz/fonts/msjh_console.ttf
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Boot/cs-cz/fonts/msjhn_boot.ttf
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Boot/cs-cz/fonts/msyh_boot.ttf
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Boot/cs-cz/fonts/msyh_console.ttf
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Boot/cs-cz/fonts/msyhn_boot.ttf
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Boot/cs-cz/fonts/segmono_boot.ttf
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Boot/cs-cz/fonts/segoe_slboot.ttf
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Boot/cs-cz/fonts/segoen_slboot.ttf
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Boot/cs-cz/fonts/wgl4_boot (2).ttf
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Boot/cs-cz/fonts/wgl4_boot.ttf
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Boot/cs-cz/memtest.efi.mui
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Boot/cs-cz/winload.efi.mui
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Boot/cs-cz/winload.exe.mui
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Boot/cs-cz/winresume.efi.mui
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Boot/cs-cz/winresume.exe.mui
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/bootfix.bin
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/bootsect.exe
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/bootx64.efi
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Dockerfile.jvm
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Dockerfile.legacy-jar
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Dockerfile.native
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Dockerfile.native-distroless
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/etfsboot.com
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/git.exe
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/GitHubLinkButton.xaml
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/hubot.service
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/kmihovny.c.txt
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/memtest.efi
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/memtest.exe
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Microsoft Collaborate/$$$.txt
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Microsoft Collaborate/-l.htm
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Microsoft Collaborate/-l.html
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Microsoft Collaborate/-l.mhtml
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Microsoft Collaborate/Coverage-20211206T124003.json
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Microsoft Collaborate/DeviceTree.txt
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Microsoft Collaborate/h1-vendors-main-popover.js
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Microsoft Collaborate/ProtectedController.java
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Microsoft Collaborate/readme.md
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/Microsoft Collaborate/{}.mhtml
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/MSFT_WaitForAll/en-US/MSFT_WaitForAll.schema.mfl
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/MSFT_WaitForAll/MSFT_WaitForAll.psm1
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/MSFT_WaitForAll/MSFT_WaitForAll.schema.mof
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/MSFT_WaitForAny/en-US/MSFT_WaitForAny.schema.mfl
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/MSFT_WaitForAny/MSFT_WaitForAny.psm1
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/MSFT_WaitForAny/MSFT_WaitForAny.schema.mof
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/nic.c/.p (2).txt
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/nic.c/bootsect (2).exe
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/nic.c/Microsoft_Edge_ReadingList_‎12_‎08_‎2019.html
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/nic.c/ReadyApps/cs/extension/listing directory _.mhtml
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/nic.c/ReadyApps/fi/appinstall.Resources.dll
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/nic.c/ReadyApps/hu/appinstall.Resources.dll
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/nic.c/ReadyApps/ko/appinstall.Resources.dll
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/nic.c/ReadyApps/pl/appinstall.Resources.dll
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/nic.c/ReadyApps/pt-br/appinstall.Resources.dll
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/nic.c/workly-master/HEAD
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/nic.c/workly-master/hooks/applypatch-msg.sample
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/nic.c/workly-master/hooks/commit-msg.sample
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/nic.c/workly-master/hooks/config (2)
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/nic.c/workly-master/hooks/description (3)
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/nic.c/workly-master/hooks/fsmonitor-watchman.sample
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/nic.c/workly-master/hooks/post-update.sample
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/nic.c/workly-master/hooks/pre-applypatch.sample
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/nic.c/workly-master/hooks/pre-commit.sample
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/nic.c/workly-master/hooks/pre-push.sample
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/nic.c/workly-master/hooks/pre-rebase.sample
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/nic.c/workly-master/hooks/pre-receive.sample
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/nic.c/workly-master/hooks/prepare-commit-msg.sample
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/nic.c/workly-master/hooks/structure (2).sql
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/nic.c/workly-master/hooks/update.sample
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/nic.c/workly-master/info/hubot (2).gitext
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/SystemPowerReport (1).html
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/winload.efi
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/winload.exe
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/winresume.efi
+Tests/Rules/DSCResourceModule/DSCResources/MSFT_WaitForAnyNoIdenticalMandatoryParameter/winresume.exe
+Tests/Rules/DSCResourceModule/DSCResources/resources/android_version-CZ-monthly-202010-202110.csv
+Tests/Rules/DSCResourceModule/DSCResources/resources/bootres.dll
+Tests/Rules/DSCResourceModule/DSCResources/resources/bootres_hci.dll
+tools/docker/ubuntu/Dockerfile
